@@ -1,4 +1,4 @@
-#AI_Regulatory_Compliance_checker
+# AI-Regulatory-Compliance-Checker
 
 Project Statement:
 
